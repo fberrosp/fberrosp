@@ -1,63 +1,28 @@
-# Fernando Berrospi
-> U.S. Green Card holder
+<h1 align="center">Hi 👋, I'm Fernando Berrospi</h1>
+<h3 align="center">Software Engineer</h3>
 
-> fberrosp.github.io
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fberrosp&label=Profile%20views&color=0e75b6&style=flat" alt="fberrosp" /> </p>
 
-> fberrosp@gmail.com
+- 🔭 I’m currently working on [F1-EDA-Grand-Prix-Analysis](https://github.com/fberrosp/F1-EDA-Grand-Prix-Analysis)
 
-## Work Experience
--------------------
-Aug. 2021 - Aug. 2022
-: **Software Engineer**; MS4M (Lima, Peru)
-* Identified and collected company’s KPI data to construct a multitude of dashboards to track and streamline active projects using Microsoft Power BI.
-* Collaborated in the overhaul of a facial point detection algorithm to improve the accuracy of a fatigue detection system from 27.91% to 87.10%.
-* Determined the performance of a face detection machine learning model using an open-source tool to evaluate the mean Average Precision (mAP).
-* Constructed an algorithm to identify the model with the optimal blink and yawn detection results to maximize the precision and sensitivity of the model.
+- 🌱 I’m currently learning **back-end development**
 
-Jan. 2019 - July 2019
-: **Junior Software Developer**; CDC Gold Peru (La Libertad, Peru)
-* Developed a k-means clustering algorithm in R to identify haul truck delays in the mining facilities.
-* Designed a tracking algorithm to trace routes taken by water tank trucks saving the company over $3000 per month.
-* Upgraded haul truck scheduling efficiency by automating the process using an R script reducing the time spent on the scheduling
-process by 85%.
-* Supervised a team to design and implement an innovative irrigation system saving the company over $5000 per month.
+- 👨‍💻 All of my projects are available at [https://fberrosp.github.io](https://fberrosp.github.io)
 
-## Publications
--------------------
-September 2022
-: **IEEE**; INTERCON 2022 (Lima,Peru)
-* A. Martinez, F. Berrospi, V. Porras and M. Portocarrero, "Using facial landmarks to detect driver fatigue," 2022 IEEE XXIX International Conference on Electronics, Electrical Engineering and Computing (INTERCON), 2022, pp. 1-4, doi: 10.1109/INTERCON55795.2022.9870046.
+- 📫 How to reach me **fberrosp@gmail.com**
 
-## Education
--------------------
-December 2019
-: **BS, Industrial Engineering**; Purdue University (West Lafayette, IN)
-* Certificate in Entrepreneurship and Innovation
-* Study abroad in Milan, Italy during the Spring 2018 semester (Politecnico di Milano)
+- 📄 Know about my experiences [https://fberrosp.github.io/FernandoBerrospi.pdf](https://fberrosp.github.io/FernandoBerrospi.pdf)
 
-## Projects
--------------------
-Jan. 2018 - Aug. 2018
-: **Sorgenia Innovation Project**; Politecnico di Milano (Milan, Italy)
-* Collaborated with a multicultural group of students to create an inventive solution for an Italian energy company.
-* Engineered a feasible energy sharing business model for renewable energy using a design thinking approach.
-* Developed augmented intercultural proficiencies including leadership, adaptability and communication skills.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fberrosp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fberrosp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fernandoberrospi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandoberrospi" height="30" width="40" /></a>
+<a href="https://kaggle.com/fernandoberrospi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fernandoberrospi" height="30" width="40" /></a>
+</p>
 
-Aug. 2017 – Dec. 2017
-: **Routing Optimization Project**; Purdue University (West Lafayette, IN)
-* Collaborated with a multicultural group of students to create an inventive solution for an Italian energy company.
-* Engineered a feasible energy sharing business model for renewable energy using a design thinking approach.
-* Developed augmented intercultural proficiencies including leadership, adaptability and communication skills.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Leadership Experience
--------------------
-Aug. 2017 - Dec. 2018
-: **College Mentors for Kids**; Purdue University (West Lafayette, IN)
-* Cultivated relationships with young children to stimulate confidence, personal development and higher education.
-* Engaged in various activities aimed at teaching kids about science, cultural diversity and community service.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fberrosp&show_icons=true&locale=en&layout=compact" alt="fberrosp" /></p>
 
-## Skills
--------------------
-* **Programming Languages**: Python, C, MATLAB, R, Java, SQL, Visual Basic for Applications (VBA).
-* **Tools**: Git, PostreSQL, Anaconda, TensorFlow, Pytorch, FastAI, Jira, Microsoft Power BI, Microsoft Excel, Bootstrap, HTML, CSS.
-* **Language Skills**: Spanish (native), English (fluent), French (proficient), Italian (proficient).
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fberrosp&show_icons=true&locale=en" alt="fberrosp" /></p>
