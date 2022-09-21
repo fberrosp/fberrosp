@@ -7,11 +7,8 @@
 
 <p>More about me:</p>
 <ul>
-  <li><a href="https://fberrosp.github.io"/>Personal Website</li>
-  <li><a href="https://fberrosp.github.io/FernandoBerrospi.pdf"/>Resume</li>
   <li><a href="https://www.linkedin.com/in/fernandoberrospi"/>LinkedIn</li>
-  <li><a href="https://twitter.com/fberrosp"/>Twitter</li>
-  <li><a href="mailto:fberrosp@gmail.com"/>Email</li>
+  <li><a href="https://fberrosp.github.io/FernandoBerrospi.pdf"/>Resume</li>
 </ul>
 
 <h3 align="left">Projects</h3>
