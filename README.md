@@ -1,28 +1,66 @@
-<h1 align="center">Hi 👋, I'm Fernando Berrospi</h1>
+<h1 align="center">Fernando Berrospi</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fberrosp&label=Profile%20views&color=0e75b6&style=flat" alt="fberrosp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fberrosp&label=Profile%20views&color=0e75b6&style=flat" alt="fberrosp"/> </p>
 
-- 🔭 I’m currently working on [F1-EDA-Grand-Prix-Analysis](https://github.com/fberrosp/F1-EDA-Grand-Prix-Analysis)
+<p>I am <strong>Fernando Berrospi</strong>, a growth-minded <strong>Software Engineer</strong> who is passionate about all things related to software development, data science and Formula 1.<br>I graduated from <strong>Purdue University</strong> in 2019 with a B.S in Industrial Engineering. I currently work as a Software Engineer involved in the creation and the improvement of a facial landmark detection model for fatigue detection on drivers in mining facilities.</p>
 
-- 🌱 I’m currently learning **back-end development**
+<p>More about me:</p>
+<ul>
+  <li><a href="https://fberrosp.github.io"/>Personal Website</li>
+  <li><a href="https://fberrosp.github.io/FernandoBerrospi.pdf"/>Resume</li>
+  <li><a href="https://www.linkedin.com/in/fernandoberrospi"/>LinkedIn</li>
+  <li><a href="https://twitter.com/fberrosp"/>Twitter</li>
+  <li><a href="mailto:fberrosp@gmail.com"/>Email</li>
+</ul>
 
-- 👨‍💻 All of my projects are available at [https://fberrosp.github.io](https://fberrosp.github.io)
+<h3 align="left">Projects</h3>
+<p>I love learning new things. Here are some of my most recent projects to showcase my skillset.</p>
+<ul>
+  <li><a href="https://github.com/fberrosp/F1-EDA-Grand-Prix-Analysis"/><strong>F1 EDA Grand Prix Analysis</strong>: Analysis of historic Formula 1 data.</li>
+</ul>
 
-- 📫 How to reach me **fberrosp@gmail.com**
+<h3 align="left">Stack Technologies</h3>
+<table align="center" border="0">
+  <tr>
+    <th>Programming Languages</th>
+    <th>Data/ML/DL</th> 
+    <th>Tools and Frameworks</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt=""/>
+      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt=""/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt=""/>
+    </td> 
+    <td>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt=""/>
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt=""/>
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt=""/>
+    </td>
+  </tr>
+</table>
 
-- 📄 Know about my experiences [https://fberrosp.github.io/FernandoBerrospi.pdf](https://fberrosp.github.io/FernandoBerrospi.pdf)
+<h3 align="left">Statistics</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fberrosp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fberrosp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fernandoberrospi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandoberrospi" height="30" width="40" /></a>
-<a href="https://kaggle.com/fernandoberrospi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fernandoberrospi" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fberrosp&show_icons=true&locale=en&layout=compact" alt="fberrosp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fberrosp&show_icons=true&locale=en" alt="fberrosp" /></p>
+<table align="center" border="0">
+  <tr>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fberrosp&show_icons=true&locale=en" alt="fberrosp" /></td>
+    <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fberrosp&show_icons=true&locale=en" alt="fberrosp" /></td>
+  </tr>
+</table>
