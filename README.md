@@ -56,10 +56,9 @@
 
 <h3 align="left">Statistics</h3>
 
-
 <table align="center" border="0">
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fberrosp&show_icons=true&locale=en" alt="fberrosp" /></td>
-    <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fberrosp&show_icons=true&locale=en" alt="fberrosp" /></td>
+    <td><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=fberrosp&theme=dark&show_icons=true&hide_border=true" /></td>
+    <td><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=fberrosp&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" /></td>
   </tr>
 </table>
