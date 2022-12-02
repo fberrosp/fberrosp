@@ -14,8 +14,8 @@
 <h3 align="left">Projects</h3>
 <p>I love learning new things. Here are some of my most recent projects to showcase my skillset.</p>
 <ul>
-  <li><a href="https://www.kaggle.com/code/fernandoberrospi/f1-eda-grand-prix-analysis"/><strong>Formula 1 - Grand Prix Analysis</strong>: Analysis of historic Formula 1 data.</li>
   <li><a href="https://issuetrackingsystem-9d0f7.web.app/"/><strong>Ticketing System Web Application</strong>: CRUD web app using MVC architectural pattern.</li>
+  <li><a href="https://www.kaggle.com/code/fernandoberrospi/f1-eda-grand-prix-analysis"/><strong>Formula 1 - Grand Prix Analysis</strong>: Analysis of historic Formula 1 data.</li>
 </ul>
 
 <h3 align="left">Stack Technologies</h3>
