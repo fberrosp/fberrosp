@@ -7,7 +7,7 @@
 
 <p>More about me:</p>
 <ul>
-  <li><a href="https://www.linkedin.com/in/fernandoberrospi"/>LinkedIn</li>
+  <li><a href="https://www.linkedin.com/in/fberrosp"/>LinkedIn</li>
   <li><a href="https://fberrosp.github.io/FernandoBerrospi.pdf"/>Resume</li>
 </ul>
 
