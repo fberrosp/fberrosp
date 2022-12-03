@@ -8,7 +8,7 @@
 <p>More about me:</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/fberrosp"/>LinkedIn</li>
-  <li><a href="https://fberrosp.github.io/FernandoBerrospi.pdf"/>Resume</li>
+  <li><a href="https://fberrosp.github.io/assets/resume/FernandoBerrospi.pdf"/>Resume</li>
 </ul>
 
 <h3 align="left">Projects</h3>
